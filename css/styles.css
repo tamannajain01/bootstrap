@@ -1,0 +1,13 @@
+.row-content{
+    min-height: 350px;
+    border-bottom: 1px ridge;
+}
+.jumbotron{
+    background-color: #9575CD;
+    color: white;
+}
+.footer{
+    background-color: #D1C4E9;
+    color: black;
+    padding: 20px 0px;
+}
