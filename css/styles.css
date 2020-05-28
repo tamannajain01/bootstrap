@@ -1,6 +1,8 @@
 .row-content{
-    min-height: 350px;
+    min-height: 400px;
     border-bottom: 1px ridge;
+    padding: 40px 0px;
+    margin:0px auto;
 }
 .jumbotron{
     background-color: #9575CD;
