@@ -20,3 +20,9 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+.tab-content{
+    border-bottom: 1px ridge;
+    border-right: 1px ridge;
+    border-left: 1px ridge;
+    padding: 10px;
+}
